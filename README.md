@@ -18,7 +18,7 @@ Homoscedasticity via residual spread analysis
 3.Predictive Modeling: From Scratch to Neural Nets
    
 📐 Custom implementations: OLS, Gradient Descent, Lasso & Ridge
-🧠 ML Models: SVM, Decision Tree, Random Forest
+🧠 ML Models: SVM, Decision Tree, Random Forest, XGBoost
 ⚙️ Deep Learning: Multi-layer Perceptron (MLP) for capturing complex patterns
 
 A perfect blend of statistical foundations and practical ML — built for robustness and interpretability.
